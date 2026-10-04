@@ -12,3 +12,6 @@ folium
 geopy
 graphviz
 pymupdf
+beautifulsoup4
+requests
+lxml
