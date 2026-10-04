@@ -1,17 +1,37 @@
-streamlit
-transformers
-torch
-sentencepiece
-spacy
-nltk
+streamlit==1.36.0
+
+# Core
+pandas
+numpy
+scikit-learn
+
+# NLP
+spacy==3.7.2
+nltk==3.8.1
 sumy
 yake
 rake-nltk
+
+# Transformers (optional but heavy)
+transformers
+sentencepiece
+
+# Visualization
 plotly
 folium
-geopy
-graphviz
-pymupdf
+streamlit-folium
+
+# Web + scraping
 beautifulsoup4
 requests
 lxml
+newspaper3k
+
+# PDF
+pymupdf==1.24.1
+
+# Maps / utils
+geopy
+
+# Graph
+graphviz
