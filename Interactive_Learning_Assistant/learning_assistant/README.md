@@ -1,8 +1,6 @@
 # 📚 Interactive Learning Assistant
 
-Turn any paragraph into a **short summary**, **beautiful visuals**, and **auto-generated quizzes** — all in one sleek Streamlit app.
-
-https://user-images.githubusercontent.com/placeholder/demo.gif
+AI-powered learning assistant for content summarization, mind maps, timelines, and quiz generation using NLP.
 
 ## ✨ Features
 - **Summarization** (Transformers with graceful fallbacks to Sumy/NLTK)
